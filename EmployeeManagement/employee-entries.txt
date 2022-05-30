@@ -1,0 +1,12 @@
+FTE,583420,Andrew,Tolmachev,2,Brazil,0.18,58302.0
+PTE,796682,Jacob,Kim,0,North Korea,0.69,7.0,60.0,52.0
+PTE,395732,Richard,Nguyen,1,Calgary,0.13,30.0,20.0,25.0
+PTE,293473,Percy,Ranger,1,New Brunswick,0.11,45.0,15.0,20.0
+FTE,104843,Tarren,Selvic,1,PEI,0.08,197500.0
+FTE,573183,Brenda,Doan,1,Mississauga,0.01,500000.0
+PTE,791564,Huy,Truong,0,Ontario,0.21,14.0,20.0,45.0
+PTE,774735,Karen,Wu,1,Mississauga,0.15,20.0,15.0,50.0
+FTE,123456,Patrick,Li,1,Sauga,0.14,69420.0
+FTE,590577,Po,Marshal,0,Amsterdam,0.13,250000.0
+FTE,238459,Martha,Selvic,2,PEI,0.09,197500.0
+PTE,433829,James,Surray,1,Ontario,0.16,14.0,20.0,45.0
